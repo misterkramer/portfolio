@@ -3,11 +3,13 @@
 	"services" : [
 		{
 			"icon" : "arrow-alt-circle-up",
-			"title" : "Performance optimization"
+			"title" : "Performance optimization",
+			"description" : "I will help your business get the best performance indicators in the system before black Friday or the launch of a new product."
 		},
 		{
 			"icon" : "cog",
-			"title" : "SRE"
+			"title" : "SRE",
+			"description" : "Help your business build a fault-tolerant and reliable system through optimal workload placement."
 		}
 	]
 }
