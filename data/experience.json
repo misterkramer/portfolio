@@ -5,13 +5,13 @@
 			"timeperiod" : "Jan 2016 - Sep 2017",
 			"company" : "i-Digital",
 			"website": "https://i-dgtl.ru",
-			"description" : "Operation and monitoring of high-load systems and services."
+			"description" : "Maintened, monitored of high-load systems and services. Performed java-backend manual, load and automated testing, made a different set of QA environment improvements."
 		},
 		{
 			"timeperiod" : "Oct 2017 - Present",
 			"company" : "Yandex.Money",
 			"website" : "https://money.yandex.ru",
-			"description" : "Analysis and optimization of system performance, writing simple application services in Python."
+			"description" : "Was responsible for analysis and optimization of system performance - bottleneck search, improvement system fault tolerance and stability. Developed services for workflow automation. Built the CI/CD infrastructure and processes for my team using the Hashicorp stack (Consul,Vault,Nomad), Jenkins Job DSL."
 		}
 	]
 }
