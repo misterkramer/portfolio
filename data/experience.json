@@ -1,0 +1,17 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Jan 2016 - Sep 2017",
+			"company" : "i-Digital",
+			"website": "https://i-dgtl.ru",
+			"description" : "Operation and monitoring of high-load systems and services."
+		},
+		{
+			"timeperiod" : "Oct 2017 - Present",
+			"company" : "Yandex.Money",
+			"website" : "https://money.yandex.ru",
+			"description" : "Analysis and optimization of system performance, writing simple application services in Python."
+		}
+	]
+}

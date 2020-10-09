@@ -1,0 +1,13 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "arrow-alt-circle-up",
+			"title" : "Performance optimization"
+		},
+		{
+			"icon" : "cog",
+			"title" : "SRE"
+		}
+	]
+}

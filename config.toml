@@ -1,0 +1,4 @@
+baseURL = "https://misterkramer.github.io/"
+languageCode = "en-us"
+title = "Sergei Kramer"
+theme = "hugo-uilite"

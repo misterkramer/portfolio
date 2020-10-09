@@ -1,0 +1,10 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Python" : "70",
+		"CI/CD automation" : "90",
+		"Performance research" : "80",
+		"DevOps" : "80",
+		"Administration" : "70"
+	}
+}
