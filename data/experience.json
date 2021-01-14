@@ -8,10 +8,16 @@
 			"description" : "Maintened, monitored of high-load systems and services. Performed java-backend manual, load and automated testing, made a different set of QA environment improvements."
 		},
 		{
-			"timeperiod" : "Oct 2017 - Present",
+			"timeperiod" : "Oct 2017 - Dec 2020",
 			"company" : "Yandex.Money",
 			"website" : "https://money.yandex.ru",
 			"description" : "Was responsible for analysis and optimization of system performance - bottleneck search, improvement system fault tolerance and stability. Developed services for workflow automation. Built the CI/CD infrastructure and processes for my team using the Hashicorp stack (Consul,Vault,Nomad), Jenkins Job DSL."
+		},
+		{
+			"timeperiod" : "Dec 2020 - Present",
+			"company" : "Gazprombank Investments",
+			"website" : "https://gazprombank.investments",
+			"description" : "Now I am building monitoring with VictoriaMetrics stack, making the infrastructure transition to the Yandex.Cloud with IaC tools such as terraform/pulumi"
 		}
 	]
 }
