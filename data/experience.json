@@ -14,10 +14,16 @@
 			"description" : "Was responsible for analysis and optimization of system performance - bottleneck search, improvement system fault tolerance and stability. Developed services for workflow automation. Built the CI/CD infrastructure and processes for my team using the Hashicorp stack (Consul,Vault,Nomad), Jenkins Job DSL."
 		},
 		{
-			"timeperiod" : "Dec 2020 - Present",
+			"timeperiod" : "Dec 2020 - May 2021",
 			"company" : "Gazprombank Investments",
 			"website" : "https://gazprombank.investments",
-			"description" : "Now I am building monitoring with VictoriaMetrics stack, making the infrastructure transition to the Yandex.Cloud with IaC tools such as terraform/pulumi"
+			"description" : "Built monitoring with VictoriaMetrics stack, made the infrastructure transition to the Yandex.Cloud with Terraform."
+		},
+		{
+			"timeperiod" : "May 2021 - Present",
+			"company" : "JetBrains",
+			"website" : "https://jetbrains.com",
+			"description" : "Drive to develop;)"
 		}
 	]
 }
