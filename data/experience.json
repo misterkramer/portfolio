@@ -5,7 +5,7 @@
 			"timeperiod" : "Jan 2016 - Sep 2017",
 			"company" : "i-Digital",
 			"website": "https://i-dgtl.ru",
-			"description" : "Maintened, monitored of high-load systems and services. Performed java-backend manual, load and automated testing, made a different set of QA environment improvements."
+			"description" : "Maintained, monitored of high-load systems and services. Performed java-backend manual, load and automated testing, made a different set of QA environment improvements."
 		},
 		{
 			"timeperiod" : "Oct 2017 - Dec 2020",
@@ -20,10 +20,10 @@
 			"description" : "Built monitoring with VictoriaMetrics stack, made the infrastructure transition to the Yandex.Cloud with Terraform."
 		},
 		{
-			"timeperiod" : "May 2021 - Present",
+			"timeperiod" : "May 2021 - June 2022",
 			"company" : "JetBrains",
 			"website" : "https://jetbrains.com",
-			"description" : "Drive to develop;)"
+			"description" : "Prepared the cloud infrastructure for the new License Vault product, interacted with SRE/Monitoring teams on SLO and alert configuration. Maintained the current dev/staging/prod infrastructure of the team."
 		}
 	]
 }
