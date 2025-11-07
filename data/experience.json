@@ -24,6 +24,18 @@
 			"company" : "JetBrains",
 			"website" : "https://jetbrains.com",
 			"description" : "Prepared the cloud infrastructure for the new License Vault product, interacted with SRE/Monitoring teams on SLO and alert configuration. Maintained the current dev/staging/prod infrastructure of the team."
+		},
+		{
+			"timeperiod" : "August 2022 - February 2023",
+			"company" : "VK",
+			"website" : "https://vk.com",
+			"description" : "Maintained the dev development environment, CI/CD and all related tools, such as Gitblab/Artifactory, custom python scripts and etc."
+		},
+		{
+			"timeperiod" : "February 2023 - Present",
+			"company" : "YooMoney",
+			"website" : "https://yoomoney.ru",
+			"description" : "System performance analysis and optimization - search for bottlenecks, increase system fault tolerance and stability. Optimizing HPA/VPA usage in k8s. Building a python platform for the whole company."
 		}
 	]
 }
